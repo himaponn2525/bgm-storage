@@ -12,8 +12,6 @@ QuestNotesのBGM設定欄に貼り付けるURLのひな形です。
 `https://raw.githubusercontent.com/himaponn2525/bgm-storage/main/ファイル名.mp3`
 
 ## 🎵 楽曲管理リスト
-QuestNotesで使用する際は、各ファイル名を「URLテンプレート」の末尾に当てはめる。
-
 | ファイル名 | 正式曲タイトル | 作曲者様 | 備考 |
 | :--- | :--- | :--- | :--- |
 | bgm01.mp3 | 風がはじめに寄る街的なBGM | 鷹尾まさき 様 | メインBGM(エントランス) さわやかに冒険者をお出迎え |
